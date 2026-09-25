@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/License-MIT-20C997?style=for-the-badge" />
   <a href="TELEMETRY.md"><img src="https://img.shields.io/badge/telemetry-anonymous%2C%20opt--out-546FFF?style=for-the-badge" /></a>
   <a href="https://scorecard.dev/viewer/?uri=github.com/NanoNets/Graft"><img src="https://img.shields.io/ossf-scorecard/github.com/NanoNets/Graft?style=for-the-badge&label=openssf%20scorecard" /></a>
-  <a href="https://app.trailhq.com/get-started?step=repo"><img src="https://img.shields.io/badge/Trail%20Brain-try%20it-E5484D?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://app.trailhq.com/get-started?step=repo"><img src="https://img.shields.io/badge/Trail-try%20it-E5484D?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ### Up to **4× cheaper** and **3× faster**, with better or no loss of correctness.
@@ -33,7 +33,7 @@
 
 <p align="center">
   <b>Stop repeating yourself to your coding agent.</b><br/>
-  You correct it, and by the next session it has forgotten. Trail Brain manages your CLAUDE.md and AGENTS.md so it doesn't.
+  You correct it, and by the next session it has forgotten. Trail manages your CLAUDE.md and AGENTS.md so it doesn't.
 </p>
 
 <p align="center">
